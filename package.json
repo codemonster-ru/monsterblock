@@ -28,7 +28,8 @@
         "dist"
     ],
     "scripts": {
-        "build": "vite build"
+        "dev": "vite dev --force --mode development",
+        "build": "vite build --mode production"
     },
     "peerDependencies": {
         "vue": "^3.0.0",
