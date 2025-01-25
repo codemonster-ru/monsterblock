@@ -1,4 +1,4 @@
-# @codemonster-ru/vue-code-block
+# MonsterBlock
 
 Open source code block for Vue.js.
 
